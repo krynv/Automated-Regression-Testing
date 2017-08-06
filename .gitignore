@@ -1,0 +1,5 @@
+node_modules/
+.idea/
+reports/*
+tests/features/*
+screenshots/diff/*

@@ -25,7 +25,7 @@
     "mochawesome-screenshots": "^1.0.6",
     "newman": "^3.4.2",
     "path": "^0.12.7",
-    "pix-diff": "1.2.0",
+    "pix-diff": "2.0.1",
     "protractor": "^5.1.2",
     "protractor-html-screenshot-reporter": "^0.0.21",
     "protractor-perf": "^0.2.1",

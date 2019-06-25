@@ -30,7 +30,7 @@
     "protractor-html-screenshot-reporter": "^0.0.21",
     "protractor-perf": "^0.2.1",
     "q": "^1.4.1",
-    "robotjs": "^0.4.5",
+    "robotjs": "^0.5.1",
     "scroll-into-view": "^1.7.1",
     "yadda": "^0.17.10"
   }

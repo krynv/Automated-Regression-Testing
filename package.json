@@ -19,7 +19,7 @@
     "couchdb-client": "^1.0.14",
     "glob": "^7.0.5",
     "guid": "^0.0.12",
-    "jsonfile": "^2.4.0",
+    "jsonfile": "^6.1.0",
     "lodash": "^4.15.0",
     "mocha": "^2.5.3",
     "mochawesome-screenshots": "^1.0.6",

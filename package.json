@@ -23,7 +23,7 @@
     "lodash": "^4.15.0",
     "mocha": "^2.5.3",
     "mochawesome-screenshots": "^1.0.6",
-    "newman": "^3.4.2",
+    "newman": "^5.2.2",
     "path": "^0.12.7",
     "pix-diff": "1.2.0",
     "protractor": "^5.1.2",

@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "blink-diff": "^1.0.13",
-    "chai": "^3.5.0",
+    "chai": "^4.3.1",
     "chai-as-promised": "^5.3.0",
     "couchdb-client": "^1.0.14",
     "glob": "^7.0.5",
